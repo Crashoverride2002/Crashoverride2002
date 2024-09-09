@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crashoverride2002 AKA Kent Hansen
 - 👀 I’m interested in 3D Modeling, programming and creative ideas.
-- 🌱 I’m currently learning xamarin C#, SFML C++
+- 🌱 I’m currently learning xamarin C#, SFML C++, SCFML and C++ is more like relearning as much have changsed.
 - 🌱 Doing Graphics as well as some music just starting to learn it in Modplug
 - 🌱 Will release a video soon on my youtube channel of the programming and game design. 
 - 💞️ I’m looking to collaborate on ...
